@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PartyCalculator
 {
-    class Party
+    abstract class Party
     {
         public const int CostOfFoodPerPerson = 25;
 
